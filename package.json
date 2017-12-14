@@ -1,0 +1,20 @@
+{
+  "name": "parceljs-helloworld",
+  "version": "1.0.0",
+  "description": "Helloworld do ParcelJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltazarparra/parceljs-helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baltazarparra/parceljs-helloworld/issues"
+  },
+  "homepage": "https://github.com/baltazarparra/parceljs-helloworld#readme"
+}
